@@ -38,5 +38,9 @@ Attributes
   No transitive dependency
 
 
+Link to download sample database
+https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
+
+
 
    
