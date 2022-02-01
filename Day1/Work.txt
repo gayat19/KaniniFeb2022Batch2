@@ -1,0 +1,42 @@
+Data Repetation - Error while updating, Inserting, Reading or deleting the data
+RDBMS ->
+   Table -> Entity
+   Fields -> Attributes
+   Relation -> Relation
+   Row -> Tuple
+
+Candidate Key -> Eligible to become the Primary key
+Alternate Key -> other candidate keys(apart from the primary)
+Primary key - > should be unique and cannot be null
+Composite Key -> Combination of more than one column to become the primary key
+Foreign Key -> Primary key of a table appears in another table
+
+Entities
+  Strong -> Primary key
+  Weak 
+  Derived
+
+Attributes
+  Single 
+  Derived
+  MultiValue
+  Complex
+
+1 NF->
+  No Multivalue attribute
+     Split it and put it in to multiple rows in a different table
+  Has to have primary key
+  Similar type of data in every column
+
+2 NF
+  Tables should be in 1NF
+  No partial dependency
+     Split it in to a different table
+
+3NF
+  Tables should be in 2NF
+  No transitive dependency
+
+
+
+   
