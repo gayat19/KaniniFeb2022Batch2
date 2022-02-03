@@ -1,3 +1,5 @@
 https://codeshare.io/G3-Kanini2022
 
 https://github.com/gayat19/KaniniFeb2022Batch2
+
+https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
