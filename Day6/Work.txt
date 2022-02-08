@@ -1,0 +1,22 @@
+C# learning
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+
+IDE
+  Create - Code
+  Design
+  SCM
+  Test
+  Deploy
+
+
+Download dotnet core sdk
+https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
+
+Dotnet - core
+Platform indipendent
+Free downloadable
+
+C#
+  OOPL
+  Type Safe
+  

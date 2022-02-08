@@ -1,0 +1,29 @@
+1) Select all the author details
+
+2) Print the author full name
+
+3) Print the titles which are priced less than 10
+
+4) print the number of publisher in each city
+
+5) print the number of titles published by each publisher
+
+6) Print the total quantity sold of every title
+
+7) improve the query in 6 to print the title name and numbers sold
+
+8) print the publisher name and the title name
+
+9) print the publisher name and the total quantity sold(for all the books published under teh publisher)
+
+10) Print the author full name and the titles he has authored
+
+11) Print the bill number, quanity, price of title and the store address
+
+12) Print the employee name and the pulisher name
+
+13) Print the publisher name, employee name and their job description 
+
+14) print the publisher name and his first employee recruitment date
+
+15) print the author name and the average price of his books 

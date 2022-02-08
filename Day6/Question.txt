@@ -1,0 +1,6 @@
+1) https://leetcode.com/problems/reverse-integer/
+2) https://leetcode.com/problems/subsets/
+3) https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+Learn
+https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/

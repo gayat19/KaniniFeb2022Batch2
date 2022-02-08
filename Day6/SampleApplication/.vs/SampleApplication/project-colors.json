@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9215b767-5b23-48ea-973d-adaadbfe1306": {
+      "ProjectGuid": "9215b767-5b23-48ea-973d-adaadbfe1306",
+      "DisplayName": "SampleApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

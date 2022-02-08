@@ -1,0 +1,8 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\ref\FirstApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\FirstApplication\obj\Debug\net5.0\FirstApplication.pdb

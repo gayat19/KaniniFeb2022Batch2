@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\bin\Debug\net6.0\SampleApplication.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\bin\Debug\net6.0\SampleApplication.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\bin\Debug\net6.0\SampleApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\bin\Debug\net6.0\SampleApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\bin\Debug\net6.0\ref\SampleApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\bin\Debug\net6.0\SampleApplication.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\ref\SampleApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day6\SampleApplication\obj\Debug\net6.0\SampleApplication.genruntimeconfig.cache
