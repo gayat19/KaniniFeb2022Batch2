@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day7\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
