@@ -1,0 +1,16 @@
+1) Take a range from user(min and max value) and find all teh prime numbers in that range
+
+2) Validate a Card number
+4477 4683 4311 3002
+2003 1134 3864 7744- Reverse the number
+2+0*2+0+3*2+1+1*2+3+4*2+3+8*2+6+4*2+7+7*2+4+4*2 - identify the even position numbers and multiply by 2
+2+0+0+6+1+2+3+8+3+16+6+8+7+14+4+8 - Multiplied
+2+0+0+6+1+2+3+8+3+(1+6)+6+8+7+(1+4)+4+8 - If results in 2 digit number sum them up
+2+0+0+6+1+2+3+8+3+7+6+8+7+5+4+8 - Sum up all teh values
+70%10-> Divide by 10 if 0 remainder then valid card number
+
+3) Take 11 numbers from user and identify the maximum repeating number(mode). If no number repeats print -1
+
+4) Take 10 numbers from user and identfy if a number and its square are present. If yes then print the number
+
+

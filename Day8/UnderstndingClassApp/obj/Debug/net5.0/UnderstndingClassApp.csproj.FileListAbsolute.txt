@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\UnderstndingClassApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\UnderstndingClassApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\UnderstndingClassApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\UnderstndingClassApp.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\UnderstndingClassApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\ref\UnderstndingClassApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\bin\Debug\net5.0\UnderstndingClassApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\ref\UnderstndingClassApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day8\UnderstndingClassApp\obj\Debug\net5.0\UnderstndingClassApp.genruntimeconfig.cache

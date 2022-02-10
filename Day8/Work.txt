@@ -1,0 +1,59 @@
+OOPS
+  Class
+  Object
+Pizza pizza1 = new Pizza();
+            Pizza pizza2 = new Pizza();
+            Console.WriteLine("Pizza1");
+            pizza1.PrintNumbers();
+            Console.WriteLine("Pizza2");
+            pizza2.PrintNumbers();
+            pizza1.instancenumber++;
+            Pizza.staticnumber++;
+            Console.WriteLine("After increment");
+            Console.WriteLine("Pizza1");
+            pizza1.PrintNumbers();
+            Console.WriteLine("Pizza2");
+            pizza2.PrintNumbers();
+            //pizza.Price = 12.4;
+            //pizza.Name = "Pepperoni";
+            //pizza.PrintPizzzaDetails();
+Create a customer class with
+Name, Age and Phone as properties
+
+Create object of Customer class and print the details 
+class Customer
+    {
+        string name, phone;
+        int age;
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+        public string Phone
+        {
+            get { return phone; }   
+            set { phone = value; }
+        }
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+        public void PrintDetails()
+        {
+            Console.WriteLine("Customer name is " + name);
+            Console.WriteLine("Customer phone is " + phone);
+            Console.WriteLine("Customer phone age " + age);
+        }
+    }
+
+Customer customer = new Customer();
+            customer.Name = "Cutomer1";
+            customer.Phone = "+38013114214";
+            customer.Age = 20;
+            customer.PrintDetails();
+
+  Inheritance
+
+Arrays
