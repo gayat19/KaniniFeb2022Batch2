@@ -1,0 +1,44 @@
+1) Create a application taht will take employee data
+Id, Name, age, phone, skills
+Emplyee can add 5 skills at maximum
+Take employee details and print the details
+
+2) Use the class you created in question 1
+Add a method that will take a skill and check if the employee has it(Use indexer)
+
+Take a number and print the skill of employee in the list(Ensure you take number and its inbetween 0-4)
+
+3) Create  an application taht will take 5 employees data and print the data
+Take a skill name and print all teh employee who have the skill
+
+4) write an application that will print the only unique in given 11 numbers
+PS: except 1 number all the 5 numbers have duplicate values
+each number is duplicated only once
+Example
+1,5,7,8,9,1,2,5,9,7,2
+The number is 8
+
+5) Take a 4 digit number and check if it is a plaindrome
+
+6) Create an application that will allow the user to play cow an bull(only for 4 char word)
+Same char same position - cow
+Same char diff position - bull
+Example - If the word is - golf
+Start the guess
+heap
+cows - 0, bulls - 0
+kite
+cows - 0, bulls -0
+girl
+cows - 1, bulls -1
+like
+cows -0, bulls 1
+milk
+cows -1, bull -0
+goat
+cows -2, bulls - 0
+gold
+cows -3, bulls-0
+golf
+cows -4, bulls -0
+Congrats!!! you won!!!!!

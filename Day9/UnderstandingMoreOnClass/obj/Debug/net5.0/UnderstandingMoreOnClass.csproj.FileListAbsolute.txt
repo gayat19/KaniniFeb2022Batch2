@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\UnderstandingMoreOnClass.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\UnderstandingMoreOnClass.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\UnderstandingMoreOnClass.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\UnderstandingMoreOnClass.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\UnderstandingMoreOnClass.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\ref\UnderstandingMoreOnClass.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\bin\Debug\net5.0\UnderstandingMoreOnClass.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\ref\UnderstandingMoreOnClass.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day9\UnderstandingMoreOnClass\obj\Debug\net5.0\UnderstandingMoreOnClass.genruntimeconfig.cache
