@@ -13,7 +13,7 @@ namespace UnderstandingMoreOnClass
         {
             for (int i = 0; i < pizzas.Length; i++)
             {
-                pizzas[i] = new Pizza();
+                pizzas[i] = new Conizza();
                 pizzas[i].TakePizzaDetailsFromConsole();
             }
         }
@@ -21,7 +21,8 @@ namespace UnderstandingMoreOnClass
         {
             foreach (var item in pizzas)
             {
-                item.PrintPizzaDetails();
+                //item.PrintPizzaDetails();
+                Console.WriteLine(item);
                 Console.WriteLine("------------------------------");
             }
         }

@@ -18,7 +18,12 @@ Example
 1,5,7,8,9,1,2,5,9,7,2
 The number is 8
 
-5) Take a 4 digit number and check if it is a plaindrome
+5) Take a 4 digit number and check if it is a plindrome
+
+1221- true
+1231- false
+9009 -true
+8989 - false
 
 6) Create an application that will allow the user to play cow an bull(only for 4 char word)
 Same char same position - cow

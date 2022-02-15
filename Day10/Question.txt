@@ -1,0 +1,25 @@
+1) Create a customer class
+    Id, Name, Age, Phone
+
+2) Create a ManageCustomer class
+   Add Customer - Create - should add 3 customers
+   Print all customers - Read
+   Print Customer if given the ID - Read
+   Change Customer Phone - Update
+   Edit Customer Age - Update
+
+3) Create method in program class that will print  menu
+
+Welcome to customer Management system(hint- use a switch case inside a do-while)
+1) Add customers
+2) Print customer
+3) Print all customers
+4) Update customer phone
+5) Update customer age'
+6) Exit
+
+and will call the respective methods in the Manage Customer class
+
+
+
+  

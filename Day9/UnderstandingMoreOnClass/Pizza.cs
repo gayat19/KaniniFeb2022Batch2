@@ -8,7 +8,6 @@ namespace UnderstandingMoreOnClass
 {
     class Pizza
     {
-
         string[] toppings = new string[5];
         public string this[int index]
         {
@@ -62,7 +61,7 @@ namespace UnderstandingMoreOnClass
         public string Name { get; set; }
         public string Desc { get; set; }
         public double Price { get; set; }
-        public void PrintPizzaDetails()
+        public  void PrintPizzaDetails()
         {
             Console.WriteLine($"The Pizza ID : {Id}");
             Console.WriteLine($"The Pizza Name : {Name}");
@@ -73,6 +72,20 @@ namespace UnderstandingMoreOnClass
             {
                 Console.WriteLine($"\t {toppings[i]}");
             }
+        }
+        object obj;
+        public override string ToString()
+        {
+            string topping = "";
+            for (int i = 0; i < toppings.Length; i++)
+            {
+                topping += "\t "+toppings[i];
+            }
+            return "The Pizza ID : " + Id
+            + "\nThe Pizza Name : " + Name
+            + "\nThe Pizza Price : " + Price
+            + "\nThe Pizza  : " + Desc
+            + "\nToppigs are \n"+topping;
         }
         public void Bake()
         {
@@ -93,7 +106,7 @@ namespace UnderstandingMoreOnClass
             }
             return newPIzza;
         }
-        public void TakePizzaDetailsFromConsole()
+        public virtual void TakePizzaDetailsFromConsole()
         {
             Console.WriteLine("Please enter the pizza name");
             Name = Console.ReadLine();
