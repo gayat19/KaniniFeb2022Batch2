@@ -1,0 +1,28 @@
+   void CheckAccess()
+        {
+            UnderstandAccess customer = new UnderstandAccess();
+            customer.intInternal = 100;
+            customer.intPublic = 200;
+            //customer.intPrivate = 300;
+            //customer.intProtected = 400;
+            intProtected = 400;
+        }
+
+
+System.InvalidOperationException
+  HResult=0x80131509
+  Message=Failed to compare two elements in the array.
+  Source=System.Private.CoreLib
+  StackTrace:
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource, Exception e)
+   at System.Collections.Generic.ArraySortHelper`1.Sort(Span`1 keys, IComparer`1 comparer)
+   at System.Array.Sort[T](T[] array)
+   at MultipleProjectApplication.ManageCustomer.SortCustomerByAge() in D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\MultipleProjectApplication\ManageCustomer.cs:line 74
+   at MultipleProjectApplication.Program.InteractWithCustomers() in D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\MultipleProjectApplication\Program.cs:line 55
+   at MultipleProjectApplication.Program.Main(String[] args) in D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\MultipleProjectApplication\Program.cs:line 66
+
+  This exception was originally thrown at this call stack:
+    [External Code]
+
+Inner Exception 1:
+ArgumentException: At least one object must implement IComparable.

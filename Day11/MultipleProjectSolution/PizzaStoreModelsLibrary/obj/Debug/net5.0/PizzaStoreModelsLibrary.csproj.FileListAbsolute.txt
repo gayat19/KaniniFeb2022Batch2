@@ -1,0 +1,12 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\bin\Debug\net5.0\PizzaStoreModelsLibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\bin\Debug\net5.0\PizzaStoreModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\bin\Debug\net5.0\ref\PizzaStoreModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\bin\Debug\net5.0\PizzaStoreModelsLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\ref\PizzaStoreModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\MultipleProjectSolution\PizzaStoreModelsLibrary\obj\Debug\net5.0\PizzaStoreModelsLibrary.pdb

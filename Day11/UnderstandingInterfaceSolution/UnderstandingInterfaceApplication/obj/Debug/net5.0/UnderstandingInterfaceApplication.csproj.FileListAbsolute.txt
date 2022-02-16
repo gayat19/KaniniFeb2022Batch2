@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\ref\UnderstandingInterfaceApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\bin\Debug\net5.0\UnderstandingInterfaceApplication.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\ref\UnderstandingInterfaceApplication.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day11\UnderstandingInterfaceSolution\UnderstandingInterfaceApplication\obj\Debug\net5.0\UnderstandingInterfaceApplication.genruntimeconfig.cache
