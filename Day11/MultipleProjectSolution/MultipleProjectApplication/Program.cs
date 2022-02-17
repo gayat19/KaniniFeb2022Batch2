@@ -19,7 +19,7 @@ namespace MultipleProjectApplication
         }
         void InteractWithCustomers()
         {
-            ManageCustomer manage = new ManageCustomer();
+            ManageCustomer manage = new ManageCustomerCollection();
             int choice = 7;
             do
             {

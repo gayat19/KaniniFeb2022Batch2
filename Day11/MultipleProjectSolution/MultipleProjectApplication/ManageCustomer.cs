@@ -15,7 +15,7 @@ namespace MultipleProjectApplication
         {
             customers = new Customer[2];//created 5 reff
         }
-        public void Add5Customers()
+        public virtual void Add5Customers()
         {
             for (int i = 0; i < customers.Length; i++)
             {
@@ -24,7 +24,7 @@ namespace MultipleProjectApplication
                 customers[i].TakeCustomerDetailsFromConsole();
             }
         }
-        public Customer GetCustomerById(int id)
+        public virtual Customer GetCustomerById(int id)
         {
             for (int i = 0; i < customers.Length; i++)
             {
@@ -38,13 +38,13 @@ namespace MultipleProjectApplication
             }
             return null;
         }
-        private void PrintCustomer(Customer customer)
+        protected void PrintCustomer(Customer customer)
         {
             Console.WriteLine("--------------------");
             Console.WriteLine(customer);//will invoke the ToString()--remember we have overrided it
             Console.WriteLine("--------------------");
         }
-        public void PrintCustomerById()
+        public virtual void PrintCustomerById()
         {
             int id = TakeCustomerIdFromUser();
             Customer customer = GetCustomerById(id);
@@ -58,7 +58,7 @@ namespace MultipleProjectApplication
             }
         }
 
-        private int TakeCustomerIdFromUser()
+        protected int TakeCustomerIdFromUser()
         {
             int id = 0;
             Console.WriteLine("Please enter the customer Id");
@@ -69,7 +69,7 @@ namespace MultipleProjectApplication
             return id;
         }
 
-        internal void SortCustomerByAge()
+        internal virtual void SortCustomerByAge()
         {
             Array.Sort(customers);
             foreach (var item in customers)
@@ -78,7 +78,7 @@ namespace MultipleProjectApplication
             }
         }
 
-        public void PrintAllCustomers()
+        public virtual void PrintAllCustomers()
         {
             foreach (var item in customers)
             {
@@ -86,7 +86,7 @@ namespace MultipleProjectApplication
                     PrintCustomer(item);
             }
         }
-        public void UpdateCustomerPhone()
+        public virtual void UpdateCustomerPhone()
         {
             int id = TakeCustomerIdFromUser();
             Customer customer = GetCustomerById(id);
@@ -110,7 +110,7 @@ namespace MultipleProjectApplication
                 Console.WriteLine("No such customer");
             }
         }
-        public void UpdateCustomerAge()
+        public virtual void UpdateCustomerAge()
         {
             int id = TakeCustomerIdFromUser();
             Customer customer = GetCustomerById(id);
@@ -134,7 +134,7 @@ namespace MultipleProjectApplication
                 Console.WriteLine("No such customer");
             }
         }
-        public void RemoveCustomer()
+        public virtual void RemoveCustomer()
         {
             int id = TakeCustomerIdFromUser();
             int idx = -1;
