@@ -1,0 +1,15 @@
+Create a CRUD operation for Doctor objects
+
+Doctor - Id, Name, Experience(float), Speciality(string)
+
+Edit the code that you did on Day12 assignment so that it can take as much doctors ad the user gives
+
+Can edit Experienceand Speciality
+
+Note:
+Use Generic collection
+Print doctor sorted by Experience
+Create Model class in library
+Manage the doctor in console app project
+Ensure the application does not break(avoid exceptions using error handling as much as possible)
+
