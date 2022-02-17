@@ -76,5 +76,17 @@ namespace MultipleProjectApplication
                 Console.WriteLine("No sucg suctomer could not delete");
 
         }
+        internal override void SortCustomerByAge()
+        {
+            SortedSet<Customer> sortedCustomers = new SortedSet<Customer>();
+            foreach (var item in customers.Values)
+            {
+                sortedCustomers.Add(item);
+            }
+            foreach (var item in sortedCustomers)
+            {
+                Console.WriteLine(item);
+            }
+        }
     }
 }
