@@ -95,6 +95,7 @@ namespace UnderstandingCollectionApplication
             {
                 Console.WriteLine(employees[item]);
             }
+           
         }
 
         static void Main(string[] args)

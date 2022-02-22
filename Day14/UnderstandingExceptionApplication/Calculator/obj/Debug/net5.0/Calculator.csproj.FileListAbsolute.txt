@@ -1,0 +1,12 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day14\UnderstandingExceptionApplication\Calculator\obj\Debug\net5.0\Calculator.pdb
