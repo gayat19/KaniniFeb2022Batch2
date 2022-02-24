@@ -21,6 +21,7 @@ namespace Calculator
         {
             message = msg+" " + num;
         }
-        public override string Message => message;
+        public override string Message => message;//Lambda Expression
+        
     }
 }

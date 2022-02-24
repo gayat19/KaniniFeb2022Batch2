@@ -41,7 +41,6 @@ namespace UnderstandingExceptionApplication
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
                 Console.WriteLine("oops something went wrong!!!!");
             }
             finally

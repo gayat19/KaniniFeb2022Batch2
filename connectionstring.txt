@@ -1,0 +1,6 @@
+Data source=DESKTOP-1C1EU5R\SQLSERVER2019G3;userid=sa;password=P@ssw0rd; Initial Catalog=Northwind
+
+
+Data source=<servername>;userid=sa;password=<your password>; Initial Catalog=N<databsename>
+
+Data source=<servername>;Integrated security=true; Initial Catalog=<databasename>
