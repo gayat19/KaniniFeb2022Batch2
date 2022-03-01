@@ -2,6 +2,7 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
+using System.Diagnostics;
 
 namespace ADOIntroApp
 {
@@ -18,17 +19,36 @@ namespace ADOIntroApp
         void FetchProductData()
         {
             SqlCommand cmd = new SqlCommand("Select * from Products");
-            cmd.Connection = conn;
-            conn.Open();
-            SqlDataReader dr = cmd.ExecuteReader();
-            while (dr.Read())
+            if (conn.State == ConnectionState.Open)
+                conn.Close();
+            try
             {
-                Console.Write("Product ID "+dr[0].ToString());
-                Console.Write("\tProduct Name "+dr[1].ToString());
-                Console.Write("\tProduct quantity pre unit "+dr[4].ToString());
-                Console.WriteLine();
+                cmd.Connection = conn;
+                conn.Open();
+                SqlDataReader dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    Console.Write("Product ID " + dr[0].ToString());
+                    Console.Write("\tProduct Name " + dr[1].ToString());
+                    Console.Write("\tProduct quantity pre unit " + dr[4].ToString());
+                    Console.WriteLine();
+                }
+               
             }
-            conn.Close();
+            catch(SqlException se)
+            {
+                Debug.WriteLine(se.StackTrace);
+                Console.WriteLine("Could not connect to database. Sory");
+            }
+            catch(Exception e)
+            {
+                Debug.WriteLine(e.Message);
+                Console.WriteLine("Oops we could not fetch teh data"); 
+            }
+            finally
+            {
+                conn.Close();
+            }
         }
 
         void InsertUserToTable()
@@ -121,7 +141,7 @@ namespace ADOIntroApp
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.InsertUserToTableDiscon();
+            program.FetchProductData();
             Console.ReadKey();
         }
     }

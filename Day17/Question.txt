@@ -1,0 +1,5 @@
+Show all produts (If user login is success and is an admin)
+call SP in DAL -> U can use Adapter/Reader
+BL-> Check for role
+FE -> Show Products
+If role is not admin, Inform user login success but not enough rights

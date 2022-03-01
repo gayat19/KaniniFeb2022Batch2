@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\bin\Debug\net5.0\ADODALLibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\bin\Debug\net5.0\ADODALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\bin\Debug\net5.0\ref\ADODALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\bin\Debug\net5.0\ADODALLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\bin\Debug\net5.0\ADOModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\bin\Debug\net5.0\ADOModelsLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ref\ADODALLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day17\ADOSolution\ADODALLibrary\obj\Debug\net5.0\ADODALLibrary.pdb

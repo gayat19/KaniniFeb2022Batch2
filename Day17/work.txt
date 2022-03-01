@@ -1,0 +1,10 @@
+Ask the user to login
+if login is success
+   Show all products
+
+
+Product -> Id,Name, QuantutyPerUnit, UnitPrice, Stock
+
+User -> Username, Password, Role, Age
+
+

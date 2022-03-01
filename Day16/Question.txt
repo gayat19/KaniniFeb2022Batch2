@@ -1,0 +1,6 @@
+Please create a model class for the user
+
+implement the crud operation using ADO.NET
+
+Read - Discon
+Insert, Update, Delete - connected
