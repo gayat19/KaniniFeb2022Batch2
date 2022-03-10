@@ -1,0 +1,17 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\MyBLibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\MyBLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\ref\MyBLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\MyBLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\ModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\MyDALibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\ModelsLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\bin\Debug\net5.0\MyDALibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\ref\MyBLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyBLibrary\obj\Debug\net5.0\MyBLibrary.pdb

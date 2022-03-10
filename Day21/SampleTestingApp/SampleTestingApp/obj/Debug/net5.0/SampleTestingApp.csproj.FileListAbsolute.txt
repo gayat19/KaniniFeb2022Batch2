@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\SampleTestingApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\SampleTestingApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\SampleTestingApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\SampleTestingApp.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\SampleTestingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\ref\SampleTestingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\bin\Debug\net5.0\SampleTestingApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\ref\SampleTestingApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day21\SampleTestingApp\SampleTestingApp\obj\Debug\net5.0\SampleTestingApp.genruntimeconfig.cache

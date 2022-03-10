@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\UnderstandingLINQApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\UnderstandingLINQApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\UnderstandingLINQApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\UnderstandingLINQApp.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\UnderstandingLINQApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\ref\UnderstandingLINQApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\bin\Debug\net5.0\UnderstandingLINQApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\ref\UnderstandingLINQApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\LINQSolution\UnderstandingLINQApp\obj\Debug\net5.0\UnderstandingLINQApp.genruntimeconfig.cache

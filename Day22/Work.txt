@@ -1,0 +1,7 @@
+SingleTon  - A class for which only one object can exist
+Repo - A pattern that allows teh CRUD(get,getall,add,delete,update)
+Factory - A class structure taht is hirarchial inheritance, that can create object of any child based on condition
+
+Action - upto 16 parameters no return value
+Func - 16 parameters and 1 return value
+Predicate - 1 parameter and bool type return

@@ -1,0 +1,12 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\bin\Debug\net5.0\ModelsLibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\bin\Debug\net5.0\ModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\bin\Debug\net5.0\ref\ModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\bin\Debug\net5.0\ModelsLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ref\ModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\ModelsLibrary\obj\Debug\net5.0\ModelsLibrary.pdb

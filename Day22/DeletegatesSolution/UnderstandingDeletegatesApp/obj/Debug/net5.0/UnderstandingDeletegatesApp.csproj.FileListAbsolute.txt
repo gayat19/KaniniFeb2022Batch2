@@ -1,0 +1,16 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\UnderstandingDeletegatesApp.exe
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\UnderstandingDeletegatesApp.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\UnderstandingDeletegatesApp.runtimeconfig.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\UnderstandingDeletegatesApp.runtimeconfig.dev.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\UnderstandingDeletegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\ref\UnderstandingDeletegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\bin\Debug\net5.0\UnderstandingDeletegatesApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\ref\UnderstandingDeletegatesApp.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.genruntimeconfig.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day22\DeletegatesSolution\UnderstandingDeletegatesApp\obj\Debug\net5.0\UnderstandingDeletegatesApp.csproj.AssemblyReference.cache

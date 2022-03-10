@@ -1,0 +1,15 @@
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\bin\Debug\net5.0\MyDALibrary.deps.json
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\bin\Debug\net5.0\MyDALibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\bin\Debug\net5.0\ref\MyDALibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\bin\Debug\net5.0\MyDALibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\bin\Debug\net5.0\ModelsLibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\bin\Debug\net5.0\ModelsLibrary.pdb
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.csproj.AssemblyReference.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.AssemblyInfoInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.AssemblyInfo.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.csproj.CopyComplete
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\ref\MyDALibrary.dll
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day23\MySolution\MyDALibrary\obj\Debug\net5.0\MyDALibrary.pdb
