@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Register</title>
+    <script>
+        var user = {
+            username: "",
+            password:""
+        }
+        var users = [];
+        function func1() {
+            alert('Hello');
+            //console.log(document.getElementsByTagName("h1"));
+            //for (var i = 0; i < 2; i++) {
+            //    document.getElementsByTagName("h1")[i].innerHTML = "Changed by JavaScript "+i;
+            //}
+            var name = document.getElementById("username");
+            if (name.value == "") {
+                alert("username cannot be empty");
+            }
+            else {
+                document.getElementsByTagName("h1")[0].innerHTML += " " + name.value
+                user = {};
+                user.username = name.value;
+                user.password = document.getElementById("password").value
+                //console.log(user);
+                users.push(user);
+                
+            }
+        }
+        function show() {
+            console.log(users);
+            var table = document.getElementById("userTable");
+            for (var i = 0; i < users.length; i++) {
+                var row = table.insertRow();
+                var cellUsername = row.insertCell();
+                var cellPassword = row.insertCell();
+                cellUsername.innerHTML = users[i].username;
+                cellPassword.innerHTML = users[i].password;
+            }
+            
+        }
+        function checkPasswor() {
+            var pass = document.getElementById("password");
+            if (pass.value.length < 5) {
+                alert("Password too short");
+            }
+        }
+        function changeFont() {
+            var p1 = document.getElementById("msg");
+            p1.style.backgroundColor = "red";
+        }
+        function changeFontLeave() {
+            var p1 = document.getElementById("msg");
+            p1.style.backgroundColor = "white";
+        }
+    </script>
+</head>
+<body>
+    <h1>Hello All</h1>
+    <h1>Welcome</h1>
+    <input type="text" id="username" />
+    <input type="password" onblur="checkPasswor()" id="password" />
+    <button onclick="func1()">Register</button>
+    <button onclick="show()">Show All</button>
+    <p id="msg" onmouseover="changeFont()" onmouseout="changeFontLeave()">
+        Check this out
+    </p>
+    <table border="1" id="userTable">
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Password</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</body>
+</html>
