@@ -1,0 +1,5 @@
+create a list of users
+Create a controller for user login
+take the username and password and display a wecome message
+
+Hint-> use the get and post methods
