@@ -115,3 +115,5 @@ D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day28\SecondSolution\SecondAppl
 D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day28\SecondSolution\SecondApplication\obj\Debug\net5.0\SecondApplication.genruntimeconfig.cache
 D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day28\SecondSolution\SecondApplication\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
 D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day28\SecondSolution\SecondApplication\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day28\SecondSolution\SecondApplication\obj\Debug\net5.0\Razor\Views\Employee\Login.cshtml.g.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day28\SecondSolution\SecondApplication\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
