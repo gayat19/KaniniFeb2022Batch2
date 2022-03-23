@@ -1,0 +1,19 @@
+Create a application that will display pizza details
+Pizza model
+ID
+Name
+Price
+Description
+Pic
+IsVeg
+
+The application should list the pizzas in a single page
+
+Create the table
+Create stored procedure
+Create Repo
+Create Controller
+Create View
+
+Hint-> iTs just like the index 
+use the card layout of bootstrap for display

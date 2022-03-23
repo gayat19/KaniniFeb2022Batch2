@@ -1,0 +1,5 @@
+Create an application that will allow user to Register
+Login(If already registered)
+Go to the home page- Pizza listing page(only to logged in user)
+Add pizza to cart
+View Cart

@@ -122,3 +122,5 @@ D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day29\CustomerManagementApplica
 D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day29\CustomerManagementApplication\obj\Debug\net5.0\Razor\Views\Customer\Index.cshtml.g.cs
 D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day29\CustomerManagementApplication\obj\Debug\net5.0\Razor\Views\Customer\Details.cshtml.g.cs
 D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day29\CustomerManagementApplication\obj\Debug\net5.0\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day29\CustomerManagementApplication\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\Data\d drive\Corp\Kanini\Feb2022\Participants\Day29\CustomerManagementApplication\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs

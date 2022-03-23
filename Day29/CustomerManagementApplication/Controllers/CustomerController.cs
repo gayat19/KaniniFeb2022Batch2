@@ -1,5 +1,6 @@
 ﻿using CustomerManagementApplication.Models;
 using CustomerManagementApplication.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,8 @@ namespace CustomerManagementApplication.Controllers
         }
         public IActionResult Index()
         {
+            if(HttpContext.Session.GetString("Role")!=null)
+                ViewBag.Role = HttpContext.Session.GetString("Role");
             var customers = _customerRepo.GetAll();
             return View(customers);
         }
