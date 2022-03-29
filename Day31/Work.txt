@@ -1,0 +1,22 @@
+Web API -> http -> Request/Response
+
+CRUD
+
+Web API -> RESTful Service -> Resource
+
+http://localhost:5000/Employee
+
+Employee -> 
+Create - POST- http://localhost:5000/Employee - Employee object in body
+Read - GET - http://localhost:5000/Employee -> returns all the employee
+Update - PUT - http://localhost:5000/Employee/101 - Employee object in body -> edits the details of employee with 101 as ID
+Delete -DELETE- http://localhost:5000/Employee/101 - delets the employee with ID 101
+
+HTTP Methods
+POST
+GET
+PUT
+DELETE
+
+
+  
