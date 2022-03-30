@@ -1,0 +1,3 @@
+Singleton - one object all request to all controllers
+Scoped - different object for each request, in the request same object for all controllers
+Transient - different object for each request, different object for reach controller

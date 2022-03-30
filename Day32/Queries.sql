@@ -30,3 +30,10 @@ as
 create proc proc_InsertEmployee(@ename varchar(20),@eage int,@esal float)
 as
  insert into tblEmployee(name,age,salary) values(@ename,@eage,@esal)
+ exec proc_InsertEmployee 'Himu',23,124234.33
+
+create proc proc_DeleteEmployeeById(@eid int)
+as
+  Delete from tblEmployee where id=@eid
+
+select * from tblEmployee
