@@ -1,0 +1,11 @@
+E-shopping site
+  Customer can register/login
+  Products -> Listing with the picture(card layout)
+  Add product to cart
+  Delete item from cart
+  Buy products in cart(payment dummy page)
+  View orders(past also- sorted by date in descending order)
+  
+
+
+
